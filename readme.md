@@ -30,3 +30,6 @@
 ## Note
 - tuple is not supported because unitorm initialization is not supported.
   - Also, getting the size looks kind of difficult.
+
+## License
+- Boost Software License is applied, where you need to retain the copyright notice only in source distribution.
